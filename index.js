@@ -21,3 +21,4 @@ console.log('Final webhook test');
 // Debug environment test Tue Jun 24 15:57:40 PDT 2025
 // JWT timing test Tue Jun 24 16:00:58 PDT 2025
 // Testing webhook secret fix Tue Jun 24 16:02:38 PDT 2025
+// Fresh JWT fix test Tue Jun 24 16:14:33 PDT 2025
