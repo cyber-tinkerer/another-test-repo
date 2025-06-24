@@ -16,3 +16,4 @@ console.log('Final webhook test');
 // Testing webhook with proper GitHub App configuration - Tue Jun 24 14:43:32 PDT 2025
 // Webhook secret test Tue Jun 24 14:57:25 PDT 2025
 // Webhook secret re-test Tue Jun 24 15:03:05 PDT 2025
+// Debug environment test Tue Jun 24 15:23:36 PDT 2025
