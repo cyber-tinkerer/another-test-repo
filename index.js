@@ -8,3 +8,4 @@ console.log('Final webhook test');
 // Testing no-touch install with App ID from webhook
 // Testing end-to-end webhook flow with SBOM generation
 // Testing end-to-end webhook flow with SBOM generation - Tue Jun 24 11:45:44 PDT 2025
+// Testing webhook signature verification - Tue Jun 24 12:00:35 PDT 2025
