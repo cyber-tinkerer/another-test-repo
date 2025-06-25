@@ -5,3 +5,4 @@
 # Testing webhook with absolute private key path
 # Testing webhook with status check fix
 # Testing webhook with commit SHA fix
+# Testing webhook with commit statuses permission
